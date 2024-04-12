@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emile/Documents/Unreal Projects/SpaceTurnBasedStrategy/SpaceGame/TurnBasedTacticStarterPac/Content/Creatures/Animations/Dwarf/BreathingIdle_UE.uasset",
+				"C:/Users/Emile/Documents/Unreal Projects/SpaceTurnBasedStrategy/SpaceGame/TurnBasedTacticStarterPac/Content/Creatures/Animations/Dwarf/Walking_4__UE.uasset",
+				"C:/Users/Emile/Documents/Unreal Projects/SpaceTurnBasedStrategy/SpaceGame/TurnBasedTacticStarterPac/Content/Creatures/Animations/Dwarf/Walking_UE.uasset",
+				"C:/Users/Emile/Documents/Unreal Projects/SpaceTurnBasedStrategy/SpaceGame/TurnBasedTacticStarterPac/Content/Creatures/Meshes/Dwarf/GenDwarfBlendSpace.uasset"
+			]
+		}
+	]
+}
